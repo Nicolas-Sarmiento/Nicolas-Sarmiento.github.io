@@ -13,7 +13,7 @@ title                    : "Nicolas Sarmiento Vargas"
 title_separator          : "-"
 name                     : &name "Nicolas Sarmiento Vargas"
 description              : &description "I'm a Software Engineering student with a strong interest in Computer Science and Mathematics. I enjoy working on projects that involve algorithms, logic, and mathematical thinking — especially when I can build them from scratch. Right now, I’m learning C, C++, and Python, and I’m focused on improving my skills in algorithms and data structures. I also love Competitive Programming and the challenge of solving problems efficiently."
-url                      : https://NicolasSarmiento.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://Nicolas-Sarmiento.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : " Nicolas-Sarmiento/NicolasSarmiento.github.io"
 
