@@ -22,7 +22,7 @@ repository               : " Nicolas-Sarmiento/NicolasSarmiento.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_img.png"
   name             : "Nicolas Sarmiento Vargas"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineering student passionate about Computer Science, algorithms, and math. Currently learning C, C++, and Python."
